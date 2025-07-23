@@ -1,16 +1,26 @@
-## Hi there 👋
+# Olá, eu sou o Antonio Ximenes 👋
 
-<!--
-**antonioximens/antonioximens** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Sou um desenvolvedor em formação, atualmente cursando o **6º semestre de Ciência da Computação**, com foco em **Product Owner** e **desenvolvimento web**.
 
-Here are some ideas to get you started:
+Tenho direcionado meus estudos para tecnologias como **TypeScript**, **Node.js** e **React**, buscando transformar ideias em projetos reais e funcionais.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Possuo projetos tanto no desenvolvimento **front-end** e **back-end**, criando soluções práticas.
+
+Sou movido por desafios e aprendizado constante, sempre explorando novas ferramentas e boas práticas para evoluir como profissional e entregar o melhor resultado possível.
+
+## Tecnologias que uso
+
+<p>
+  <img alt="TypeScript" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40" height="40"/>
+  <img alt="React" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" height="40"/>
+  <img alt="Next.js" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="40" height="40"/>
+  <img alt="Node.js" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" height="40"/>
+  <img alt="Bootstrap" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="40" height="40"/>
+</p>
+---
+
+Estou sempre aberto a novos desafios e projetos interessantes. Vamos conversar! 🚀
+
+
+
+
