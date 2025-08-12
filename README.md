@@ -2,7 +2,7 @@
 
 Sou um desenvolvedor em formação, atualmente cursando o **6º semestre de Ciência da Computação**, com foco em **Product Owner** e **desenvolvimento software**.
 
-Tenho direcionado meus estudos para tecnologias como **TypeScript**, **Node.js** , ** Express** e **React**, buscando transformar ideias em projetos reais e funcionais.
+Tenho direcionado meus estudos para tecnologias como **TypeScript**, **Node.js** , **Express** e **React**, buscando transformar ideias em projetos reais e funcionais.
 
 Possuo projetos tanto no desenvolvimento **front-end** e **back-end**, criando soluções práticas.
 
