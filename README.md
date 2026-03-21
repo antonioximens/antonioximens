@@ -1,6 +1,6 @@
 # Olá, eu sou o Antonio Ximenes 👋
 
-Sou um desenvolvedor em formação, atualmente cursando o **7º semestre de Ciência da Computação**, com foco em **Product Owner** e **desenvolvimento software**.
+Sou um desenvolvedor em formação, atualmente cursando o **7º semestre de Ciência da Computação**, com foco em **desenvolvimento software**.
 
 Tenho trabalhado com as tecnologias como **TypeScript**, **Node.js** , **Express** e **React**, buscando transformar ideias em projetos reais e funcionais.
 
