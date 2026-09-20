@@ -1,10 +1,13 @@
 # Olá, eu sou o Antonio Ximenes 👋
 
-Sou um desenvolvedor em formação, atualmente cursando o **7º semestre de Ciência da Computação**, com foco em **desenvolvimento software**.
+Sou **Desenvolvedor de Software**, formado em Ciência da Computação com foco em desenvolvimento **Web e Mobile**.
 
-Tenho trabalhado com as tecnologias como **TypeScript**, **Node.js** , **Express** e **React**, buscando transformar ideias em projetos reais e funcionais.
+Trabalho principalmente com **TypeScript, React, React Native, Node.js e NestJS**, desenvolvendo aplicações de ponta a ponta, do front-end ao back-end, utilizando também tecnologias como **PostgreSQL, Prisma e Docker**.
 
-Possuo projetos tanto no desenvolvimento **front-end** e **back-end**, criando soluções práticas.
+Gosto de transformar ideias e problemas reais em produtos funcionais, buscando sempre entender não apenas *como* implementar uma solução, mas também *por que* determinada arquitetura ou abordagem faz sentido.
+
+Atualmente estou como desenvolvedor mobile e estou aprofundando meus conhecimentos em **arquitetura de software, performance, desenvolvimento mobile e construção de produtos reais**.
+
 
 ## Tecnologias que uso
 
